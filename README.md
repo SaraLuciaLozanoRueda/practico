@@ -8,7 +8,7 @@ Seleccione la tabla **medicina** y se hace notar ya que solo tengo creado el Con
 
 **Endpoints**
 
-.listar todos = localhost:8092/medicina
+.listar todos = https://localhost:8092/medicina
 
 .buscar =
 
